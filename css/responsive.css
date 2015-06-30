@@ -1,0 +1,58 @@
+@media(max-width: 768px){
+	.content{
+		padding:40% 0 0;
+	}
+}
+
+@media (max-width: 603px){
+#tf-menu.navbar-default {
+	background-color: rgba(0, 0, 0, 0.79);
+	}
+	
+#tf-works li.pull-left,#tf-works li.pull-right{
+	display:block;
+	float:none !important;
+	text-align:center;
+	margin-top:10px;
+	}
+	
+.pull-left.fnav ,
+.pull-right.fnav{
+	float:none !important;
+	text-align:center;
+	}
+	
+label{
+	float:none !important;
+}
+}
+
+@media (max-width :480px) {
+
+	#tf-service .section-services h2{
+		line-height:40px;
+	}
+
+	#tf-about .section-title h2{
+		line-height:40px;
+	}
+
+	#tf-testimonial .section-team h2{
+		line-height:40px;
+	}
+	
+#tf-contacts .section-team h2{
+		line-height:40px;
+	}
+	
+#tf-client .section-team h2{
+		line-height:40px;
+	}
+
+#tf-works .section-team h2{
+		line-height:40px;
+	}
+	
+}
+
+
